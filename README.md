@@ -2,7 +2,6 @@
 #### I am a full stack developer
 I am a designer and a developer. I do design UX just for fun.
 
-Skills: JAVA/ PYTHON/ JAVASCRIPT/HTML/CSS
 
 - 🔭 I’m currently working on this page. 
 
@@ -11,7 +10,7 @@ Skills: JAVA/ PYTHON/ JAVASCRIPT/HTML/CSS
 
 
 
-Hi, I am Destiny a Kenyan developer. I love UI/UX design. I am a tech savy nd would love to see technology being used to develop sustainable systems. I am currently studying Artificial Intelligence.
+##Hi, I am Destiny a Kenyan developer. I love UI/UX design. I am a tech savy nd would love to see technology being used to develop sustainable systems. I am currently studying Artificial Intelligence.
 #Skills
 🐍 Python
 ☕ Java
