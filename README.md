@@ -11,7 +11,7 @@ Skills: JAVA/ PYTHON/ JAVASCRIPT/HTML/CSS
 
 
 
-Hi, I am Destiny a Kenyan developer. I have worked as a freelance UI/UX designer. I love technology and would love to see technology being used to develop sustainable systems. I am a proficient full stack web developer. 
+Hi, I am Destiny a Kenyan developer. I love UI/UX design. I am a tech savy nd would love to see technology being used to develop sustainable systems. I am currently studying Artificial Intelligence.
 #Skills
 🐍 Python
 ☕ Java
