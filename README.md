@@ -9,8 +9,12 @@ I love UI/Ux design. I am a tech savy and would love to see technology being use
 ☕ Java
 📜 Html and CSS
 🙂 Javascript
-Languages: Java, python.
+Git
+
+Languages: Java, python, Javascript.
+
 [![Destiny's github stats](https://github-readme-stats.vercel.app/api?username=Destiny-kay)](https://github.com/Destiny-kay/github-readme-stats)
 
 #Work I have done
+
 
