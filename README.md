@@ -9,7 +9,7 @@ I love UI/Ux design. I am a tech savy and would love to see technology being use
 ☕ Java
 📜 Html and CSS
 🙂 Javascript
-Git
+    Git
 
 Languages: Java, python, Javascript.
 
