@@ -1,5 +1,8 @@
-### Hi there 👋, my name is Destiny, I am a seasoned fullstack developer<BE heavy>.
-#### I love architecting backend services and fixing bugs in code .
+### Hi there 👋, my name is Destiny
+
+I am a seasoned fullstack developer<BE heavy>. Primarily using javascript and python for my backend services.
+Nothing makes me happier than a well built, scalable backend service.
+I love architecting backend services and fixing bugs in code .
 
 Let's code..:)
 
