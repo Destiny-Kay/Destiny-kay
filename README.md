@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Destiny, I am a seasoned fulstack developer<BE heavy>.
+### Hi there 👋, my name is Destiny, I am a seasoned fullstack developer<BE heavy>.
 #### I love architecting backend services and fixing bugs in code .
 
 Let's code..:)
